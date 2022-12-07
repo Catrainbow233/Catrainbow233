@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello, nice to meet you
 
-<!--
-**Catrainbow233/Catrainbow233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me:
 
-Here are some ideas to get you started:
+I am a student from China. I have some experience in programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am taking part in NOIP.
+
+I have got CSP J National first Prize
+
+I am working on Minecraft BE development.
+
+Worked on NetherGames, FillAneaPixel.
+
+### To contact me:
+
+Discord: <a href="https://sakura.fapixel.com"> SakuraAntiCheat</a>(Website)<br>
+
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Catrainbow233&show_icons=true&theme=synthwave" alt="Catrainbow :: Profile Stats" /></p>
