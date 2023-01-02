@@ -10,7 +10,7 @@ I have got CSP J National first Prize
 
 I am working on Minecraft BE development.
 
-Worked on NetherGames, FillAneaPixel.
+Worked on FillAneaPixel.
 
 ### To contact me:
 
